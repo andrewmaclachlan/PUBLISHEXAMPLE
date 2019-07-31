@@ -1,0 +1,10 @@
+name: "Hello world"
+output_dir: "."
+navbar:
+  title: "My example website"
+  left:
+    - text: "Home"
+      href: index.html
+    - text: "About"
+      href: examplepage.html
+
