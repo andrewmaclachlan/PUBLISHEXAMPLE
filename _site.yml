@@ -8,5 +8,5 @@ navbar:
     - text: "About"
       href: publishexample.html
     - text: "Shiny"
-      href: shiny.html
+      href: Shiny.html
 
