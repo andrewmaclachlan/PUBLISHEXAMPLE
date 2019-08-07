@@ -7,4 +7,6 @@ navbar:
       href: index.html
     - text: "About"
       href: publishexample.html
+    - text: "Shiny"
+      href: shiny.html
 

@@ -1,0 +1,9 @@
+---
+title: "Shiny"
+output: html_document
+---
+
+```{r fig.align='center', cache=TRUE}
+knitr::include_app("https://amaclachlan.shinyapps.io/test/",
+                   height = "900px")
+```
