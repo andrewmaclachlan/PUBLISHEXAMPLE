@@ -4,6 +4,6 @@ output: html_document
 ---
 
 ```{r fig.align='center', cache=TRUE}
-knitr::include_app("https://amaclachlan.shinyapps.io/test/",
+knitr::include_app("https://amaclachlan.shinyapps.io/Airbnb/",
                    height = "700px")
 ```
